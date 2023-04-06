@@ -1,6 +1,6 @@
-# SMS Simulator
+# smstrap
 
-SMS Simulator is a simple web application that simulates the sending and receiving of SMS messages. The backend is built with Go, while the frontend uses React.
+smstrap is a simple web application that simulates the sending and receiving of SMS messages. The backend is built with Go, while the frontend uses React.
 
 ## Features
 
