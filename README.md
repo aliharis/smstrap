@@ -33,7 +33,7 @@ cd ..
 
 3. Build the Go executable:
 
-`go build -o sms-simulator`
+`go build -o smstrap`
 
 ## Running the Application
 
@@ -62,7 +62,7 @@ This script will:
 3. Copy the frontend build output to the `static` folder in the project root directory
 4. Build the Go executable, embedding the frontend files
 
-After running the script, you'll have an updated `sms-simulator` executable that includes the latest frontend build.
+After running the script, you'll have an updated `smstrap` executable that includes the latest frontend build.
 
 To run the bundled executable, simply
 
